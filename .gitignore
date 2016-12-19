@@ -9,3 +9,4 @@
 /tmp/
 .idea
 .idea/ruby_utils.iml
+*.gem
