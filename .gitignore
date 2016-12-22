@@ -10,3 +10,4 @@
 .idea
 .idea/ruby_utils.iml
 *.gem
+*.DS_Store
